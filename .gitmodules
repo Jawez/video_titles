@@ -1,0 +1,3 @@
+[submodule "marvel_style/marvel-themed-intro"]
+	path = marvel_style/marvel-themed-intro
+	url = https://github.com/stevenjoezhang/marvel-themed-intro.git
